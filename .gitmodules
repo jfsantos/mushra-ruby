@@ -1,0 +1,3 @@
+[submodule "mushraJS"]
+	path = mushraJS
+	url = http://github.com/jfsantos/mushraJS
